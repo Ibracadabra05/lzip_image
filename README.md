@@ -4,4 +4,4 @@ Lightweight docker image with lzip installed, to be used as a binary if your hos
 
 ## Pulling the image locally
 
-`docker pull lzip_image:1.0.0`
+`docker pull ihamisu/lzip_image:tagname`
